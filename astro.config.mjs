@@ -5,6 +5,7 @@ import mdx from "@astrojs/mdx";
 
 // https://astro.build/config
 export default defineConfig({
+  site: 'https://adhiraj.vercel.app/',
   integrations: [tailwind(), react(), mdx()],
   markdown: {
     shikiConfig: {

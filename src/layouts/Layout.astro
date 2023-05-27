@@ -4,7 +4,7 @@ import BaseHead from "../components/BaseHead.astro";
 const {
   title,
   description,
-  banner = new URL("/images/banner.png", Astro.url),
+  banner = new URL("/images/banner.png", Astro.site),
 } = Astro.props.frontmatter || Astro.props;
 ---
 
