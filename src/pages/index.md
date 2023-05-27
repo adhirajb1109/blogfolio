@@ -11,7 +11,8 @@ I grew up in Delhi but recently moved to Bangalore, where I continue to pursue m
 
 My journey in the world of coding began at the age of 11, and it's like posessing a secret superpower! Technology has become my true love, and I'm always eager to stay up-to-date with the latest bleeding-edge advancements in the tech world.
 
-Beyond my technical interests, I am a die-hard bookworm, nerd or a geek, whatever you may call it. I enjoy deep-diving into various subjects, including philosophy, history, economics, geopolitics, and, of course, technology. Sooner than I realise, each exploration leads me down to a rabbit hole which I can't escape. <br />
+Beyond my technical interests, I am a die-hard bookworm, nerd or a geek, whatever you may call it. I enjoy deep-diving into various subjects, including philosophy, history, economics, geopolitics, and, of course, technology. Sooner than I realise, each exploration leads me down to a rabbit hole which I can't escape.
+
 **P.S.** You can find my writings and insights on the above topics [here](/posts).
 
 ---
