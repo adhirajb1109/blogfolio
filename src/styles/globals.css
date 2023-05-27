@@ -1,5 +1,12 @@
 @import "@fontsource-variable/karla";
-@import "@fontsource-variable/kumbh-sans";
+
+@font-face {
+    font-family: "Satoshi Variable";
+    src: url("/fonts/Satoshi-Variable.woff2") format("woff2");
+    font-weight: 300 900;
+    font-display: swap;
+    font-style: normal;
+}
 
 a {
     @apply no-underline text-sky-500 hover:text-sky-600 transition ease-in-out duration-100;
@@ -20,8 +27,8 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Kumbh Sans Variable";
-    @apply tracking-wide;
+    font-family: "Satoshi Variable";
+    @apply tracking-[0.0325em];
 }
 
 :not(h1, h2, h3, h4, h5, h6) {
@@ -29,3 +36,4 @@ h6 {
     color: #374151;
     @apply leading-7;
 }
+

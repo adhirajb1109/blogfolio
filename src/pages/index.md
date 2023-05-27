@@ -9,18 +9,10 @@ I'm Adhiraj, a passionate creator who loves crafting unique products to solve re
 
 I grew up in Delhi but recently moved to Bangalore, where I continue to pursue my interests. Currently in high school, I'm excited about this formative period in my life, as it offers numerous opportunities to refine my skills and gain a broader perspective on the world.
 
-My journey in the world of coding began at the age of 11, and it's like posessing a secret superpower! Technology has become my true love, and I'm always eager to stay up-to-date with the latest bleeding-edge advancements in the tech world. You will often find me engrossed in reading about the newest technologies, even if they were announced just an hour ago.
+My journey in the world of coding began at the age of 11, and it's like posessing a secret superpower! Technology has become my true love, and I'm always eager to stay up-to-date with the latest bleeding-edge advancements in the tech world.
 
 Beyond my technical interests, I am a die-hard bookworm, nerd or a geek, whatever you may call it. I enjoy deep-diving into various subjects, including philosophy, history, economics, geopolitics, and, of course, technology. Sooner than I realise, each exploration leads me down to a rabbit hole which I can't escape. <br />
-P.S. You can find my writings and insights on the above topics [here](/posts).
-
----
-
-Now, let's talk about my favorite pastimes. I am a true Anime fanboy! It takes me to incredible worlds and tells captivating stories that blow my mind. It's like stepping into a different dimension where anything is possible!
-
-But that's not all — I also love playing table tennis. Whenever I play, it's like time slows down, and I'm in my own little zone.
-
-Both anime and table tennis are my escape from the hustle-bustle of everyday life.
+**P.S.** You can find my writings and insights on the above topics [here](/posts).
 
 ---
 

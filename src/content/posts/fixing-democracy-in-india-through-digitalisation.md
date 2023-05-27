@@ -14,7 +14,7 @@ But, in the present-day scenario, democracy is not able to fulfill its basic pur
 ### History of Democracy
 
 The initial form of democracy which came into existence in Athens, Greece, was direct democracy. 
-Each year 500 names were chosen from all the citizens of ancient Athens. Those 500 citizens had to actively serve in the government for one year. During that year, they were responsible for making new laws and controlled all parts of the political process. When a new law was proposed, all the citizens of Athens had the opportunity to vote on it. To vote, citizens had to attend the assembly on the day the vote took place. This form of government is called direct democracy as all the citizens were directly involved in making new laws and essentially determining their future. 
+When a new law was proposed, all the citizens of Athens had the opportunity to vote on it. To vote, citizens had to attend the assembly on the day the vote took place. This form of government is called direct democracy as all the citizens were directly involved in making new laws and essentially determining their future. 
 
 ### Modern Democracy
 
@@ -25,8 +25,7 @@ Nearly 60% of the modern democratic nations observe representative democracy in 
 - In a representative democracy, citizens exercise their political power indirectly by electing representatives. But, this system has led to a sense of detachment and lack of direct participation among the citizens. Many people feel disconnected from the political process between the elections resulting in low voter turnout. 
 - Elected representatives sometimes misuse their power by engaging in corrupt practices such as bribery, favouritism or using public funds for personal welfare. 
 - Frequent changes in governments have lead to ineficiencies in decision making. New governments try to override even the good decisions and policies of the previous government to entrust its voter bank which leads to instablity and latency in passing new policies.   
-This is one of the reasons of the exponential growth of China. Due to China being a one-party state, the government did not have to please or entrust its voter bank by making policies in their favour and, the government remained constant. The stability played a huge role in the rise of China as an economic superpower. 
-- There is a risk of certain sections of society being underrepresented or marginalized. This can occur due to factors such as religion, gender, or socioeconomic disparities.
+This is one of the reasons of the exponential growth of China. Due to China being a one-party state, the government did not have to please or entrust its voter bank by making policies in their favour and, the government remained constant. The stability played a huge role in the rise of China as an economic superpower.
 
 These problems above are breaking the trust of the citizens upon democracy which leads them to towards preferring undemocratic type of governments.  
 Here, **direct democracy** comes to our rescue. 
