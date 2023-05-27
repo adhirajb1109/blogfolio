@@ -13,7 +13,6 @@ const {
     <BaseHead
       title={title}
       description={description}
-      banner={new URL("/images/banner.png", Astro.site)}
     />
   </head>
   <body class="p-6 sm:px-8 pb-32 mx-auto max-w-screen-md antialiased">
@@ -24,11 +23,11 @@ const {
       }}
     >
     </div>
-    <h1 class="text-[1.615rem] pb-2 font-semibold leading-10 text-neutral-800">
+    <h1 class="text-[1.6rem] pb-2 font-semibold leading-10 text-slate-900">
       {title}
     </h1>
     <hr />
-    <p class="text-gray-500 text-md py-2">
+    <p class="text-slate-500 text-md py-2">
       {
         new Date(date).toLocaleDateString("en-US", {
           weekday: "long",
@@ -38,7 +37,7 @@ const {
         })
       }
     </p>
-    <div class="prose prose-slate py-5">
+    <div class="prose prose-slate py-6">
       <h3>Table of Contents</h3>
       <ul class="list-decimal">
         {
@@ -46,7 +45,7 @@ const {
             .filter(({ depth }) => depth > 1 && depth < 4)
             .map((header) => (
               <li>
-                <a href={`#${header.slug}`} class="no-underline">
+                <a href={`#${header.slug}`} class="no-underline text-slate-800">
                   {header.text}
                 </a>
               </li>
