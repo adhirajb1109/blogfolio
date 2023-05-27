@@ -10,15 +10,23 @@ const {
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <BaseHead title={title} description={description} />
+    <BaseHead
+      title={title}
+      description={description}
+      banner={new URL("/images/banner.png", Astro.url)}
+    />
   </head>
   <body class="p-6 sm:px-8 pb-32 mx-auto max-w-screen-md antialiased">
     <div
       class="flex w-full h-[180px] sm:h-[220px] rounded-lg mb-8 bg-neutral-50 border border-neutral-100 items-center justify-center overflow-hidden bg-cover bg-center"
-      style={{ backgroundImage: `url("/images/cover.png")` }}
+      style={{
+        background: `linear-gradient(to right, rgb(172, 182, 229) 0%, rgb(146, 233, 232) 70%, rgb(134, 253, 232) 100%)`,
+      }}
     >
     </div>
-    <h1 class="text-[1.615rem] pb-2 font-semibold leading-10 text-neutral-800">{title}</h1>
+    <h1 class="text-[1.615rem] pb-2 font-semibold leading-10 text-neutral-800">
+      {title}
+    </h1>
     <hr />
     <p class="text-gray-500 text-md py-2">
       {
