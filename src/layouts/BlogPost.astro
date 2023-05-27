@@ -10,10 +10,7 @@ const {
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <BaseHead
-      title={title}
-      description={description}
-    />
+    <BaseHead title={title} description={description} />
   </head>
   <body class="p-6 sm:px-8 pb-32 mx-auto max-w-screen-md antialiased">
     <div
@@ -23,11 +20,15 @@ const {
       }}
     >
     </div>
-    <h1 class="text-[1.4rem] md:text-2xl pb-2 font-semibold leading-10 text-slate-900">
+    <h1
+      class="text-[1.45rem] md:text-2xl pb-2 font-[650] leading-10 text-slate-900"
+    >
       {title}
     </h1>
-    <hr />
-    <p class="text-slate-500 text-md py-2">
+    <p class="text-slate-500 text-[17.25px] md:text-lg mt-3">{description}</p>
+    <span
+      class="bg-slate-100 text-slate-800 text-base font-medium mr-2 px-2.5 py-0.5 rounded my-6 inline-block"
+    >
       {
         new Date(date).toLocaleDateString("en-US", {
           weekday: "long",
@@ -36,9 +37,10 @@ const {
           day: "numeric",
         })
       }
-    </p>
-    <div class="prose prose-slate py-6">
-      <h3 class="decoration-[#89a1ff] underline decoration-wavy">Table of Contents</h3>
+    </span>
+    <hr />
+    <div class="prose prose-slate mt-8">
+      <h3>Table of Contents</h3>
       <ul class="list-decimal">
         {
           headings
