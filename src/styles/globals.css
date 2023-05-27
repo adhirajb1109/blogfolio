@@ -1,11 +1,23 @@
 @import "@fontsource-variable/karla";
 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 @font-face {
     font-family: "Satoshi Variable";
     src: url("/fonts/Satoshi-Variable.woff2") format("woff2");
-    font-weight: 300 900;
-    font-display: swap;
+    font-weight: 300, 900;
     font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Hack";
+    src: url("/fonts/hack-regular.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 }
 
 a {
@@ -31,9 +43,21 @@ h6 {
     @apply tracking-[0.0325em];
 }
 
-:not(h1, h2, h3, h4, h5, h6) {
+:not(h1, h2, h3, h4, h5, h6, span, pre, code) {
     font-family: "Karla Variable";
     color: #374151;
     @apply leading-7;
+}
+
+pre, code, pre > code {
+    font-family: "Hack";
+}
+
+code {
+    @apply p-[3px] rounded-md border-2 border-slate-400;
+}
+
+pre {
+    @apply rounded-xl border-2 border-slate-400 p-4 my-8 text-sm scrollbar  scrollbar-h-[7px] scrollbar-thumb-slate-400 scrollbar-track-slate-300 scrollbar-track-rounded-sm overflow-y-auto;
 }
 

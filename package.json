@@ -1,5 +1,5 @@
 {
-  "name": "blogfolio",
+  "name": "@adhirajb1109/blogfolio",
   "type": "module",
   "version": "0.0.1",
   "author": "Adhiraj Bhatia",
@@ -24,6 +24,7 @@
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.9",
-    "@types/node": "^20.2.5"
+    "@types/node": "^20.2.5",
+    "tailwind-scrollbar": "^3.0.4"
   }
 }
