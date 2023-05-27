@@ -1,0 +1,25 @@
+---
+import BaseHead from "../components/BaseHead.astro";
+
+const { title, description } = Astro.props.frontmatter || Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <BaseHead title={title} description={description} />
+  </head>
+  <body class="p-6 sm:px-8 pb-32 mx-auto max-w-screen-md antialiased">
+    <div
+      class="flex w-full h-[180px] sm:h-[220px] rounded-lg mb-8 bg-neutral-50 border border-neutral-100 items-center justify-center overflow-hidden bg-cover bg-center"
+      style={{ backgroundImage: `url("/images/cover.png")` }}
+    >
+    </div>
+    <h1 class="text-[1.615rem] font-[650] text-neutral-800 mt-8 mb-5">
+      {title}
+    </h1>
+    <div class="prose">
+      <slot />
+    </div>
+  </body>
+</html>

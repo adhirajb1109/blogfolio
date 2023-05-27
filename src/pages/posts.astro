@@ -1,0 +1,30 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { getCollection } from 'astro:content';
+const posts = await getCollection('posts', ({ data }) => {
+  return data.draft !== true;
+});
+---
+
+<Layout
+  title="Posts"
+  description="Articles jotting down my insights from learning about Philosophy, History, Geopolitics and Tech."
+>
+  {
+    posts.map((post) => (
+      <div class="my-6 not-prose">
+        <p class="text-gray-500 text-md">
+          {new Date(post.data?.date).toLocaleDateString("en-US", {
+            weekday: "long",
+            year: "numeric",
+            month: "long",
+            day: "numeric",
+          })}
+        </p>
+        <a href=`/posts/${post.slug}` class="text-lg text-slate-950">
+          {post.data?.title}
+        </a>
+      </div>
+    ))
+  }
+</Layout>
