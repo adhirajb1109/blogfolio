@@ -39,7 +39,7 @@ const {
       }
     </span>
     <hr />
-    <div class="prose prose-slate mt-8">
+    <div class="prose prose-slate mt-10">
       <h3>Table of Contents</h3>
       <ul class="list-decimal">
         {
@@ -47,7 +47,7 @@ const {
             .filter(({ depth }) => depth > 1 && depth < 4)
             .map((header) => (
               <li>
-                <a href={`#${header.slug}`} class="no-underline text-slate-800">
+                <a href={`#${header.slug}`} class="no-underline text-slate-800 text-[1.06rem]">
                   {header.text}
                 </a>
               </li>
