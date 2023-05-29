@@ -63,10 +63,10 @@ code {
 }
 
 pre {
-    @apply rounded-xl border-2 border-slate-400 p-4 my-8 text-sm scrollbar  scrollbar-h-[7px] scrollbar-thumb-slate-400 scrollbar-track-slate-300 scrollbar-track-rounded-sm overflow-y-auto;
+    @apply rounded-xl border-2 border-slate-400 p-4 my-8 text-sm;
 }
 
 .prose p {
-    font-size: 1.02rem;
+    font-size: 1.025rem;
 }
 

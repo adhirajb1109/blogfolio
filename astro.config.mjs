@@ -9,7 +9,8 @@ export default defineConfig({
   integrations: [tailwind(), react(), mdx()],
   markdown: {
     shikiConfig: {
-      theme: "nord"
+      theme: "nord",
+      wrap: true
     },
   },
 });
