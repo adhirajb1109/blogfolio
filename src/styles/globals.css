@@ -24,7 +24,12 @@ a {
     @apply no-underline text-sky-500 hover:text-sky-600 transition ease-in-out duration-100;
     font-family: "Karla Variable";
 }
-
+.prose a {
+    @apply underline decoration-solid decoration-2 underline-offset-[6px]
+} 
+.nav-link {
+    text-decoration: none !important;
+} 
 .prose h1 {
     @apply text-2xl sm:text-3xl lg:text-4xl !important;
 }
@@ -59,5 +64,9 @@ code {
 
 pre {
     @apply rounded-xl border-2 border-slate-400 p-4 my-8 text-sm scrollbar  scrollbar-h-[7px] scrollbar-thumb-slate-400 scrollbar-track-slate-300 scrollbar-track-rounded-sm overflow-y-auto;
+}
+
+.prose p {
+    font-size: 1.02rem;
 }
 

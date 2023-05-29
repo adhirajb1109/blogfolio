@@ -21,7 +21,7 @@ const {
     >
     </div>
     <h1
-      class="text-[1.45rem] md:text-2xl pb-2 font-[650] leading-10 text-slate-900"
+      class="text-[1.45rem] md:text-2xl pb-2 font-[675] leading-10 text-slate-900"
     >
       {title}
     </h1>
@@ -47,7 +47,7 @@ const {
             .filter(({ depth }) => depth > 1 && depth < 4)
             .map((header) => (
               <li>
-                <a href={`#${header.slug}`} class="no-underline text-slate-800 text-[1.06rem]">
+                <a href={`#${header.slug}`} class="nav-link text-slate-800 text-[1.06rem]">
                   {header.text}
                 </a>
               </li>
