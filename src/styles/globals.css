@@ -24,12 +24,15 @@ a {
     @apply no-underline text-sky-500 hover:text-sky-600 transition ease-in-out duration-100;
     font-family: "Karla Variable";
 }
+
 .prose a {
-    @apply underline decoration-solid decoration-2 underline-offset-[6px]
+    @apply underline decoration-solid decoration-2 underline-offset-[6px] decoration-slate-300
 } 
+
 .nav-link {
     text-decoration: none !important;
 } 
+
 .prose h1 {
     @apply text-2xl sm:text-3xl lg:text-4xl !important;
 }

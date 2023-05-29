@@ -51,7 +51,7 @@ There are some key aspects to conducting fair elections digitally in India :-
 This can be acheived by using **Aadhar** as a unique identification system to verify the identity of voters and prevent fraudulent registrations. 
 
 - Develop a reliable and secure online voting platform that ensures the integrity and confidentiality of votes. The preferences of the individual voters and the running tally should be kept private to avoid social desirability bias – there is less pressure for someone to vote based on what others think of their choice and impacting tunrout respectively.  
-This can be achieved by using **blockchain** to facilitate fre and fair elections in India. Blockchain will ensure that no-one can intervene with electoral roll in the first place. Altering data over the blockchain is almost impossible. If anyone tries to manipulate the data, the person will be caught using ledger technology-led tracing.
+This can be achieved by using **blockchain** to facilitate free and fair elections in India. Blockchain will ensure that no-one can intervene with electoral roll in the first place. Altering data over the blockchain is almost impossible. If anyone tries to manipulate the data, the person will be caught using ledger technology-led tracing.
 
 Indian govt. with the kind of talent it possesses, can easily dedicate a new department to build a robust private blockchain protocol. Have read recently that the govt. has been partnering with IIT-Madras to build a blockchain protocol which will be probably be ready by the 2024 Lok Sabha Elections. The true outcome will only be revealed over time.
 
