@@ -13,7 +13,7 @@ const posts = await getCollection('posts', ({ data }) => {
   {
     posts.map((post) => (
       <div class="my-6 not-prose">
-        <p class="text-gray-500 text-md">
+        <p class="text-gray-500 text-lg">
           {new Date(post.data?.date).toLocaleDateString("en-US", {
             weekday: "long",
             year: "numeric",
@@ -21,7 +21,7 @@ const posts = await getCollection('posts', ({ data }) => {
             day: "numeric",
           })}
         </p>
-        <a href=`/posts/${post.slug}` class="nav-link text-[17px] md:text-[17.75px] text-slate-900 font-[450]">
+        <a href=`/posts/${post.slug}` class="nav-link text-[17px] md:text-[17.75px] text-slate-900 font-[500]">
           {post.data?.title}
         </a>
       </div>

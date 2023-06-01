@@ -1,4 +1,5 @@
 @import "@fontsource-variable/karla";
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Sans&display=swap');
 
 @tailwind base;
 @tailwind components;
@@ -30,7 +31,10 @@ a {
 } 
 
 .nav-link {
+    font-family: "Satoshi Variable";
+    font-weight: 525;
     text-decoration: none !important;
+    @apply tracking-[0.0325em];
 } 
 
 .prose h1 {
