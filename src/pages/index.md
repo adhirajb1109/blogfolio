@@ -13,7 +13,7 @@ Technology has become my true love, and I'm always eager to stay up-to-date with
 
 Beyond my technical interests, I am a die-hard bookworm, nerd or a geek, whatever you may call it. I enjoy deep-diving into various subjects, including philosophy, history, economics, geopolitics, and, of course, technology. Sooner than I realise, each exploration leads me down to a rabbit hole which I can't escape.
 
-**P.S.** You can find my writings and insights on the above topics [here](/posts).
+You can find my writings and insights on the above topics [here](/posts).
 
 ---
 
@@ -22,7 +22,7 @@ I'm now on this super cool journey from making toy projects to building real-dea
 One of my latest endeavours involves developing a next-generation social media platform, leveraging the power of the tried-and-tested [RSS Protocol](https://en.wikipedia.org/wiki/RSS).  
 This means that you can be the boss of your content. You decide what you wanna see, without any sneaky algorithms trying to manipulate you.
 
- It's all about giving you the power to curate and enjoy content that really matters to you.
+It's all about giving you the power to curate and enjoy content that really matters to you.
 
 ---
 
@@ -30,5 +30,6 @@ I am eagerly exploring new part-time opportunities that allow me to apply my ski
 
 ---
 
-I am super excited to make new friends, and who knows, maybe some of us will be friends for life! You can usually find me hanging out on [Twitter](https://twitter.com/adhirajb1109) and [Discord](https://discord.com/users/876685465183473675), so feel free to slide into my DMs and chat!  
-Oh, and if you prefer the good old email way, you can reach me at [hey@adhiraj.xyz](hey@adhiraj.xyz). I would be thrilled to hear from you and get to know you better 🌟
+I am super excited to make new friends, collaborators or maybe, co-founders!  
+You can usually find me hanging out on [Twitter](https://twitter.com/adhirajb1109) and [Discord](https://discord.com/users/876685465183473675), so feel free to slide into my DMs and chat!  
+Oh, and if you prefer the good old email way, you can reach me at [hey@adhiraj.xyz](hey@adhiraj.xyz).
