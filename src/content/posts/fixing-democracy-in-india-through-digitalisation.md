@@ -1,7 +1,7 @@
 ---
 layout: "../../layouts/BlogPost.astro"
 title: "Fixing Democracy in India through Digitalisation"
-description: "The current system of democracy in India is broken. Digitalisation is the only way to save this failing system of governance and transform it into an effecient model which lives up to the expectations of citizens. "
+description: "The current system of democracy in India is broken. Digitalisation is the way to save this failing system of governance and transform it into an effecient model which lives up to the expectations of citizens. "
 date: 2023-05-26
 draft: false
 ---
@@ -24,8 +24,8 @@ Nearly 60% of the modern democratic nations observe representative democracy in 
 
 - In a representative democracy, citizens exercise their political power indirectly by electing representatives. But, this system has led to a sense of detachment and lack of direct participation among the citizens. Many people feel disconnected from the political process between the elections resulting in low voter turnout. 
 - Elected representatives sometimes misuse their power by engaging in corrupt practices such as bribery, favouritism or using public funds for personal welfare. 
-- Frequent changes in governments have lead to ineficiencies in decision making. New governments try to override even the good decisions and policies of the previous government to entrust its voter bank which leads to instablity and latency in passing new policies.   
-This is one of the reasons of the exponential growth of China. Due to China being a one-party state, the government did not have to please or entrust its voter bank by making policies in their favour and, the government remained constant. The stability played a huge role in the rise of China as an economic superpower.
+- Frequent changes in governments have lead to ineficiencies in decision making. New governments try to override even the good decisions and policies of the previous government to satisy its voter bank which leads to instablity and latency in passing new policies.   
+One of the reasons of the exponential growth of China is the stability that a one-party system provides. Due to China being a one-party state, the government did not have to satisy its voter bank by making policies in their favour and, those hasty decisions were not taken. This stability played a huge role in the rise of China as an economic superpower.
 
 These problems above are breaking the trust of the citizens upon democracy which leads them to towards preferring undemocratic type of governments.  
 Here, **direct democracy** comes to our rescue. 
@@ -39,9 +39,9 @@ This drawback can also be solved with **digitalisation**.
 
 Today, the elections in India are conducted physically in the voting booths. The cost to the ECI for conducting the Lok Sabha elections of 2014 was a staggering 3870 crore rupees!  The first step towards digitalising democracy and establish direct democracy would be by digitalising elections.
 
-Around 70% of our population will have access to the internet by 2025. So, in this age of digitalisation, it makes a lot of sense for the government to conduct hybrid elections. The govt. can start conducting elections digitally as well as in polling booths. I believe that many of the citizens with access to digital devices and the internet will be quite willing to vote digitally instead of standing in long queues under the scorching sun, just to exercise their political power. Not only will this increase the voter turnout, but, will also help the govt. to drastically decrease the cost of conducting elections as the server costs would be always lower than setting up physical poll booths. The hard-earned money of taxpayers would be used in a better way for the welfare of citizens and the process of elections would become more streamlined.
+Around 70% of our population will have access to the internet by 2025. So, in this age of digitalisation, it makes a lot of sense for the government to conduct hybrid elections. The govt. can start conducting elections digitally as well as in polling booths. I believe that many of the citizens with access to digital devices and the internet will be quite willing to vote digitally instead of standing in long queues under the scorching sun, just to exercise their political franchine. Not only will this increase the voter turnout, but, will also help the govt. to drastically decrease the cost of conducting elections as the internet costs would be always lower than setting up physical poll booths. The hard-earned money of taxpayers would be used in a better way for the welfare of citizens and the process of elections would become more streamlined.
 
-Sharing a personal experience, I just went with my father to observe the process of casting your vote for the first time. The polling booth was set up in as govt. school. The students most probably had to miss their three precious days of studies for the installation of polling booths. 
+Sharing a personal experience, I just went with my father to observe the process of casting your vote for the first time. The polling booth was set up in as govt. school. The students most probably had to miss their three precious days of studies for the installation of polling booths. The current system is not only inconvenient but also ineffecient. 
 
 ### Technical Aspect of Digitalising Elections
 
@@ -53,9 +53,9 @@ This can be acheived by using **Aadhar** as a unique identification system to ve
 - Develop a reliable and secure online voting platform that ensures the integrity and confidentiality of votes. The preferences of the individual voters and the running tally should be kept private to avoid social desirability bias – there is less pressure for someone to vote based on what others think of their choice and impacting tunrout respectively.  
 This can be achieved by using **blockchain** to facilitate free and fair elections in India. Blockchain will ensure that no-one can intervene with electoral roll in the first place. Altering data over the blockchain is almost impossible. If anyone tries to manipulate the data, the person will be caught using ledger technology-led tracing.
 
-Indian govt. with the kind of talent it possesses, can easily dedicate a new department to build a robust private blockchain protocol. Have read recently that the govt. has been partnering with IIT-Madras to build a blockchain protocol which will be probably be ready by the 2024 Lok Sabha Elections. The true outcome will only be revealed over time.
+Indian govt. with the kind of talent it possesses, can easily dedicate a new department to build a robust private blockchain protocol and probably, *open-source* it. Have read recently that the govt. has been partnering with IIT Madras to build a blockchain protocol which will be probably be ready by the 2024 Lok Sabha Elections. The true outcome will only be revealed over time.
 
-Firstly, the protocol might be tested in local panchayat elections. As the effeciency of the protocol and local penetration of digital devices and the internet wil improve, one day the whole electoral process will be digital. 
+Firstly, the protocol should be tested in local panchayat elections. As the effeciency of the protocol and local penetration of digital devices and the internet wil improve, one day the whole electoral process will be digital. 
 
 ### The Next Step towards Direct Democracy
 
@@ -73,4 +73,5 @@ Singapore’s ‘founding father’ Lee Kuan Yew who transformed Singapore from 
 
 Adopting these principles is not a one-time task but an ongoing commitment to good governance. Indianleaders must recognize the long-term benefits of incorporating integrity, meritocracy, and a fair level playing field into their decision-making processes and policies.
 
-By embracing these ideals, Indian leaders have the potential to shape a nation where citizens can trust their leaders, where talents are recognized and utilized, and where opportunities are accessible to every citizen who has merit to make a change. 
+By embracing these ideals, Indian leaders have the potential to shape a nation where citizens can trust their leaders, where talents are recognized and utilized, and where opportunities are accessible to every citizen who has merit to make a change. After all,
+> Change is the only constant.

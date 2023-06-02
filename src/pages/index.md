@@ -11,7 +11,7 @@ I grew up in Delhi but recently moved to Bangalore, where I continue to pursue m
 
 Technology has become my true love, and I'm always eager to stay up-to-date with the latest bleeding-edge advancements in the tech world.
 
-Beyond my technical interests, I am a die-hard bookworm, nerd or a geek, whatever you may call it. I enjoy deep-diving into various subjects, including philosophy, history, economics, geopolitics, and, of course, technology. Sooner than I realise, each exploration leads me down to a rabbit hole which I can't escape.
+Beyond my technical interests, I am a die-hard bookworm, nerd or a geek, whatever you may call it. I enjoy deep-diving into various fields, including philosophy, history, economics, geopolitics, and, of course, technology. Sooner than I realise, each exploration leads me down to a rabbit hole which I can't escape.
 
 You can find my writings and insights on the above topics [here](/posts).
 
@@ -30,6 +30,7 @@ I am eagerly exploring new part-time opportunities that allow me to apply my ski
 
 ---
 
-I am super excited to make new friends, collaborators or maybe, co-founders!  
+I am super excited to meet new friends, collaborators or maybe, co-founders!  
 You can usually find me hanging out on [Twitter](https://twitter.com/adhirajb1109) and [Discord](https://discord.com/users/876685465183473675), so feel free to slide into my DMs and chat!  
-Oh, and if you prefer the good old email way, you can reach me at [hey@adhiraj.xyz](hey@adhiraj.xyz).
+Oh, and if you prefer the good old email way, you can reach me at [hey@adhiraj.xyz](hey@adhiraj.xyz).  
+Would love to have a deep conversation about geeky topics with you ✨ 
