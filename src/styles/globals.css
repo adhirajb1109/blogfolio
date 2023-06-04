@@ -78,6 +78,6 @@ pre {
 }
 
 .noise {
-    @apply bg-slate-100;
+    @apply bg-slate-50;
     background-image: url(/images/noise.png);
 }
