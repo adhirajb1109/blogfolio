@@ -7,8 +7,6 @@ description: "A passionate teen creator who loves crafting unique products to so
 Hey 👋,  
 I'm Adhiraj, a passionate creator who loves crafting unique products to solve real-life problems using the power of code.
 
-Nobody is trying to fix the problems we have in this world. Everyone is just trying to make enough money, so that, the problems don't apply to them. But, I am *different* and driven enough to solve them with tech.
-
 I grew up in Delhi but recently moved to Bangalore, where I continue to pursue my interests. Currently in high school, I'm excited about this formative period in my life, as it offers numerous opportunities to refine my skills and gain a broader perspective on the world.
 
 Technology has become my true love, and I'm always eager to stay up-to-date with the latest bleeding-edge advancements in the tech world.
