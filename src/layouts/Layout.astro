@@ -3,15 +3,14 @@ import BaseHead from "../components/BaseHead.astro";
 
 const {
   title,
-  description,
-  banner = new URL("/images/banner.png", Astro.site),
+  description
 } = Astro.props.frontmatter || Astro.props;
 ---
 
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <BaseHead title={title} description={description} banner={banner} />
+    <BaseHead title={title} description={description} />
   </head>
   <body class="noise p-6 sm:px-8 pb-32 mx-auto max-w-screen-md antialiased">
     <div

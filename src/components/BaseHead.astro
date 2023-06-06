@@ -3,8 +3,7 @@ import "../styles/globals.css";
 
 const {
   title,
-  description,
-  banner,
+  description
 } = Astro.props;
 ---
 
@@ -21,12 +20,12 @@ const {
     <meta property="og:type" content="website" />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
-    <meta property="og:image" content={banner} />
+    <meta property="og:image" content="/images/banner.png" />
     <meta property="twitter:card" content="summary_large_image" />
     <meta property="twitter:url" content={Astro.site} />
     <meta property="twitter:title" content={title} />
     <meta property="twitter:description" content={description} />
-    <meta property="twitter:image" content={banner} />
+    <meta property="twitter:image" content="/images/banner.png" />
   </head>
 
 
