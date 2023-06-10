@@ -77,6 +77,6 @@ pre {
 }
 
 .noise {
-    @apply bg-neutral-100;
+    @apply bg-slate-50;
     background-image: url(/images/noise.png);
 }
