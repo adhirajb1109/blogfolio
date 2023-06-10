@@ -1,5 +1,4 @@
 @import "@fontsource-variable/karla";
-@import url('https://fonts.googleapis.com/css2?family=Instrument+Sans&display=swap');
 
 @tailwind base;
 @tailwind components;
@@ -51,18 +50,18 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Satoshi Variable";
+    font-family: "Satoshi Variable", sans-serif;
     @apply tracking-[0.0325em];
 }
 
 :not(h1, h2, h3, h4, h5, h6, span, pre, code) {
-    font-family: "Karla Variable";
+    font-family: "Karla Variable", sans-serif;
     color: #374151;
     @apply leading-7;
 }
 
 pre, code, pre > code {
-    font-family: "Hack";
+    font-family: "Hack", monospace;
 }
 
 code {
@@ -78,6 +77,6 @@ pre {
 }
 
 .noise {
-    @apply bg-slate-50;
+    @apply bg-neutral-100;
     background-image: url(/images/noise.png);
 }

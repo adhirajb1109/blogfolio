@@ -33,4 +33,4 @@ I am eagerly exploring new part-time opportunities that allow me to apply my ski
 I am super excited to meet new friends, collaborators or maybe, co-founders!  
 You can usually find me hanging out on [Twitter](https://twitter.com/adhirajb1109) and [Discord](https://discord.com/users/876685465183473675), so feel free to slide into my DMs and chat!  
 Oh, and if you prefer the good old email way, you can reach me at [hey@adhiraj.xyz](hey@adhiraj.xyz).  
-Would love to have a deep conversation about geeky topics with you ✨ 
+Would love to have a conversation deep-diving into geeky topics with you.

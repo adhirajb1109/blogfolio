@@ -1,10 +1,7 @@
 ---
 import "../styles/globals.css";
 
-const {
-  title,
-  description
-} = Astro.props;
+const { title, description } = Astro.props;
 ---
 
 <!DOCTYPE html>
@@ -13,7 +10,24 @@ const {
     <meta charset="UTF-8" />
     <meta name="description" content={description} />
     <meta name="viewport" content="width=device-width" />
-    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="icon" type="image/x-icon" href="/icons/favicon.ico" />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="/icons/apple-touch-icon.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="/icons/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="/icons/favicon-16x16.png"
+    />
     <meta name="generator" content={Astro.generator} />
     <title>{title}</title>
     <meta property="og:url" content={Astro.site} />
@@ -27,6 +41,5 @@ const {
     <meta property="twitter:description" content={description} />
     <meta property="twitter:image" content="/images/banner.png" />
   </head>
-
 
 </html>
