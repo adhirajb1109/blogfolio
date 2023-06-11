@@ -20,6 +20,10 @@
     font-display: swap;
 }
 
+.prose {
+    max-width: 100% !important;
+}
+
 a {
     @apply no-underline text-sky-500 hover:text-sky-600 transition ease-in-out duration-100;
     font-family: "Karla Variable";
@@ -79,4 +83,9 @@ pre {
 .noise {
     @apply bg-slate-50;
     background-image: url(/images/noise.png);
+}
+
+.navbar a {
+    font-family: "Satoshi Variable";
+    @apply tracking-[0.03em];
 }
