@@ -58,7 +58,7 @@ h6 {
     @apply tracking-[0.0325em];
 }
 
-:not(h1, h2, h3, h4, h5, h6, span, pre, code) {
+:not(h1, h2, h3, h4, h5, h6, span, pre, code, svg) {
     font-family: "Karla Variable", sans-serif;
     color: #374151;
     @apply leading-7;
@@ -77,7 +77,7 @@ pre {
 }
 
 .prose p {
-    font-size: 1.025rem;
+    font-size: 1.04rem;
 }
 
 .navbar a {
