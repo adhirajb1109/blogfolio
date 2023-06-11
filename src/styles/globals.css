@@ -80,11 +80,6 @@ pre {
     font-size: 1.025rem;
 }
 
-.noise {
-    @apply bg-slate-50;
-    background-image: url(/images/noise.png);
-}
-
 .navbar a {
     font-family: "Satoshi Variable";
     @apply tracking-[0.03em];
