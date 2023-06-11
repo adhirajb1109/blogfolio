@@ -17,7 +17,7 @@ You can find my writings and insights on the above topics [here](/posts).
 
 ---
 
-I'm now on this super cool journey from making toy projects to building real-deal products that can make a difference.
+I'm now on this super cool journey from making toy projects to building real-deal products that can make a difference. You can find some of those products and toy projects [here](https://github.com/adhirajb1109).
 
 One of my latest endeavours involves developing a next-generation social media platform, leveraging the power of the tried-and-tested [RSS Protocol](https://en.wikipedia.org/wiki/RSS).  
 This means that you can be the boss of your content. You decide what you wanna see, without any sneaky algorithms trying to manipulate you.
