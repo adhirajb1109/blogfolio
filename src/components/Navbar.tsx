@@ -1,5 +1,6 @@
-import { FiTwitter, FiBriefcase, FiMail } from "react-icons/fi";
+import { FiTwitter, FiMail } from "react-icons/fi";
 import { RxDiscordLogo } from "react-icons/rx";
+import { HiOutlineDocumentText } from "react-icons/hi";
 
 const Navbar = () => {
   return (
@@ -17,7 +18,7 @@ const Navbar = () => {
       </div>
       <div className="ml-auto space-x-5">
         <a href="https://read.cv/adhirajb1109" target="_blank" rel="noreferrer">
-          <FiBriefcase className="inline-block" size={21} />
+          <HiOutlineDocumentText className="inline-block" size={21} />
         </a>
         <a href="mailto:hey@adhiraj.xyz" target="_blank" rel="noreferrer">
           <FiMail className="inline-block" size={21} />
