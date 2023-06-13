@@ -2,7 +2,7 @@
 layout: "../../layouts/BlogPost.astro"
 title: "Fixing Democracy in India through Digitalisation"
 description: "The current system of democracy in India is broken. Digitalisation is the way to save this failing system of governance and transform it into an effecient model which lives up to the expectations of citizens. "
-date: 2023-05-26
+date: 2023-06-13
 draft: false
 ---
 

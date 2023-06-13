@@ -4,10 +4,9 @@ title: "Adhiraj Bhatia"
 description: "A passionate teen creator who loves crafting unique products to solve real-life problems using the power of code."
 ---
 
-Hey 👋,  
 I'm Adhiraj, a passionate creator who loves crafting unique products to solve real-life problems using the power of code.
 
-I grew up in Delhi but recently moved to Bangalore, where I continue to pursue my interests. Currently in high school, I'm excited about this formative period in my life, as it offers numerous opportunities to refine my skills and gain a broader perspective on the world.
+Currently in high school, I'm excited about this formative period in my life, as it offers numerous opportunities to refine my skills and gain a broader perspective on the world.
 
 Technology has become my true love, and I'm always eager to stay up-to-date with the latest bleeding-edge advancements in the tech world.
 
@@ -33,4 +32,4 @@ I am eagerly exploring new part-time opportunities that allow me to apply my ski
 I am super excited to meet new friends, collaborators or maybe, co-founders!  
 You can usually find me hanging out on [Twitter](https://twitter.com/adhirajb1109) and [Discord](https://discord.com/users/876685465183473675), so feel free to slide into my DMs and chat!  
 Oh, and if you prefer the good old email way, you can reach me at [hey@adhiraj.xyz](hey@adhiraj.xyz).  
-Would love to have a conversation deep-diving into geeky topics with you.
+Would love to have a conversation diving-deep into geeky topics with you.
