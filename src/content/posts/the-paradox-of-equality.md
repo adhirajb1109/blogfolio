@@ -9,7 +9,7 @@ draft: false
 ### Introduction
 
 The concept of equality is often hailed as a fundamental concept in many societies, advocating for fairness and equal treatment for all individuals. 
-It embodies the belief that all of the people should have the same opportunities, access to resources, irrespective of their gender, race, ethnicity or status.
+It embodies the belief that all of the people should have the same opportunities, access to resources, irrespective of their gender, race, ethnicity or status.  
 However, when one delves deeper into the fundamental concept of equality and tries to establish it in different parts of society, a certain irony or a paradox emerges.
 
 ### Gender Equality or Feminism
@@ -21,7 +21,8 @@ In the case of the establishment of gender equality and the rise of feminist mov
 It is rightly said,
 > Indians ape the West.
 
-Nowadays, there has been an exponential rise in fake domestic violence, rape, sexual assault, mental harassment cases in India. The judgements are usually in the woman’s favour and men are mostly sidelined due to the stereotypes created by the society. Their career, mental health, and societal status takes a turn for the worse due to a fake case. The distrust among the judiciary has been rising exponentially among the youth due to the improper investigation and judgements on fake cases. *This* is the impact of one going too far in establishing equality among both of the genders. A change *needs* to be put forth. 
+Nowadays, there has been an exponential rise in fake domestic violence, rape, sexual assault, mental harassment cases in India. The judgements are usually in the woman’s favour and men are mostly sidelined due to the stereotypes created by the society. Their career, mental health, and societal status takes a turn for the worse due to a fake case. The distrust among the judiciary has been rising exponentially among the youth due to the improper investigation and judgements on fake cases.  
+*This* is the impact of one going too far in establishing equality among both of the genders. A change *needs* to be put forth. 
 
 ### The Great Reservation System of India
 
@@ -31,12 +32,12 @@ Reservation system is based on caste, which aims to uplift marginalized and hist
 
 Reservation policy in India was introduced to provide for Scheduled Castes (SC), Scheduled Tribes (ST), and Other Backward Classes (OBC). These groups have historically faced social and economic disadvantages due to the caste system and other forms of discrimination. The reservation system allocates a certain percentage of seats in educational institutions, government jobs, and legislative bodies for individuals belonging to these groups.
 
-While the reservation system was implemented with the intention of rectifying historical injustices and promoting equality, it has led to the emergence of another form of inequality. The reservation system hinders meritocracy by prioritizing caste-based considerations over individual capabilities and qualifications. Ambitious and passionate citizens who fall in the general category, don’t get an equal opportunity to prove their mettle, study in the top universities of the country and enter one of the most prestigious jobs to serve the nation. 
+While the reservation system was implemented with the intention of rectifying historical injustices and promoting equality, it has led to the emergence of another form of inequality. The reservation system hinders meritocracy by prioritizing caste-based considerations over individual capabilities and qualifications. Ambitious and passionate citizens who fall in the general category, don’t get an equal opportunity to prove their mettle, study in the top universities of the country and enter one of the most prestigious jobs to serve the nation.  
 Below are the cutoffs for various categories in one of the hardest exams in the world, JEE Advanced, which gives you a seat in the IIT’s, the MIT of India. 
 ![JEE Advanced 2023 Cutoffs based on different reservation categories.](/images/the-paradox-of-equality/cutoffs.jpg)
 There is a visible gap between a he percentile to get into IIT’s for General students and ST students. As per the above cutoff ranking, a student who scored 91 percentile will get the same branch as a student who scored 38 percentile. If this is meritocracy, then, the nation is doomed. 
 
-One point to keep in mind is that, the direction your life turns to after giving the examination can not be wholly blamed on the reservation system. If one is a part of the nation, one will have to enjoy its unique benefits and positivies but also bear with its drawbacks. There are various other opportunities which have a possibility to give you a taste of success more than getting into IIT’s or any other prestigious college. 
+One point to keep in mind is that, the direction one's life turns to after giving the examination can not be wholly blamed on the reservation system. If one is a part of the nation, one will have to enjoy its unique benefits and positivies but also bear with its drawbacks. There are various other opportunities which have a possibility to give you a taste of success more than getting into IIT’s or any other prestigious college. 
 
 After all, as our beloved Jeetu Bhaiya from Kota Factory had said, 
 ![Yeh Tera Satya Hai - Meme](/images/the-paradox-of-equality/jeetu-bhaiya-satya-meme.jpeg)
