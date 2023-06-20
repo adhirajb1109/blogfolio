@@ -12,7 +12,7 @@ const posts = await getCollection('posts', ({ data }) => {
 >
   {
     posts.map((post) => (
-      <div class="my-6 not-prose">
+      <div class="mt-6 not-prose">
         <p class="text-gray-500 text-lg">
           {new Date(post.data?.date).toLocaleDateString("en-US", {
             weekday: "long",
@@ -25,6 +25,7 @@ const posts = await getCollection('posts', ({ data }) => {
           {post.data?.title}
         </a>
       </div>
+      <hr class="my-2"/>
     ))
   }
 </Layout>
