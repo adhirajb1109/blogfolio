@@ -28,12 +28,12 @@ Nearly 60% of the modern democratic nations observe representative democracy in 
 One of the reasons of the exponential growth of China is the stability that a one-party system provides. Due to China being a one-party state, the government did not have to satisy its voter bank by making policies in their favour and, those hasty decisions were not taken. This stability played a huge role in the rise of China as an economic superpower.
 
 These problems above are breaking the trust of the citizens upon democracy which leads them to towards preferring undemocratic type of governments.  
-Here, **direct democracy** comes to our rescue. 
+Here, *direct democracy* comes to our rescue. 
 
 ### Direct Democracy in the current context
 
 Drect democracy is currently being practiced in countries with low population like Switzerland (8.7 million people) and it seems to be quite unfeasible to have direct democracy in countries with high populations like India and USA.  
-This drawback can also be solved with **digitalisation**.
+This drawback can also be solved with *digitalisation*.
 
 ### Digitalisation 's Role through India 's Perspective
 
@@ -48,10 +48,10 @@ Sharing a personal experience, I just went with my father to observe the process
 There are some key aspects to conducting fair elections digitally in India :-
 
 - Establish a secure digital voter registration system that allows eligible citizens to register and update their voter information online and implement strong authentication methods to verify the identity of voters in the digital space.  
-This can be acheived by using **Aadhar** as a unique identification system to verify the identity of voters and prevent fraudulent registrations. 
+This can be acheived by using *Aadhar* as a unique identification system to verify the identity of voters and prevent fraudulent registrations. 
 
 - Develop a reliable and secure online voting platform that ensures the integrity and confidentiality of votes. The preferences of the individual voters and the running tally should be kept private to avoid social desirability bias – there is less pressure for someone to vote based on what others think of their choice and impacting tunrout respectively.  
-This can be achieved by using **blockchain** to facilitate free and fair elections in India. Blockchain will ensure that no-one can intervene with electoral roll in the first place. Altering data over the blockchain is almost impossible. If anyone tries to manipulate the data, the person will be caught using ledger technology-led tracing.
+This can be achieved by using *blockchain* to facilitate free and fair elections in India. Blockchain will ensure that no-one can intervene with electoral roll in the first place. Altering data over the blockchain is almost impossible. If anyone tries to manipulate the data, the person will be caught using ledger technology-led tracing.
 
 Indian govt. with the kind of talent it possesses, can easily dedicate a new department to build a robust private blockchain protocol and probably, *open-source* it. Have read recently that the govt. has been partnering with IIT Madras to build a blockchain protocol which will be probably be ready by the 2024 Lok Sabha Elections. The true outcome will only be revealed over time.
 
@@ -68,7 +68,7 @@ THe cabinet of ministers should only consitute the leaders who are the experts i
 
 ### Conclusion
 
-Singapore’s **founding father** Lee Kuan Yew who transformed Singapore from just another colonial outpost and sea port to a global financial power centre, had a mantra for Indian Politicians on Good Governance,
+Singapore’s *founding father* Lee Kuan Yew who transformed Singapore from just another colonial outpost and sea port to a global financial power centre, had a mantra for Indian Politicians on Good Governance,
 > Integrity - absence of corruption, meritocracy - best people for the best job and a fair level playing field for everybody.
 
 Adopting these principles is not a one-time task but an ongoing commitment to good governance. Indianleaders must recognize the long-term benefits of incorporating integrity, meritocracy, and a fair level playing field into their decision-making processes and policies.

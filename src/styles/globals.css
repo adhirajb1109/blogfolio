@@ -1,11 +1,9 @@
-@import "@fontsource-variable/karla";
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 @font-face {
-    font-family: "Satoshi Variable";
+    font-family: "Satoshi";
     src: url("/fonts/Satoshi-Variable.woff2") format("woff2");
     font-weight: 300, 900;
     font-style: normal;
@@ -20,21 +18,29 @@
     font-display: swap;
 }
 
+@font-face {
+    font-family: "Work Sans";
+    src: url("/fonts/WorkSans-Variable.woff2") format("woff2");
+    font-weight: 300, 900;
+    font-style: normal;
+    font-display: swap;
+}
+
 .prose {
     max-width: 100% !important;
 }
 
 a {
     @apply no-underline text-sky-500 hover:text-sky-600 transition ease-in-out duration-100;
-    font-family: "Karla Variable";
+    font-family: "Work Sans";
 }
 
 .prose a {
-    @apply underline decoration-solid decoration-2 underline-offset-[6px] decoration-slate-300
+    @apply underline decoration-solid decoration-2 underline-offset-[6px] decoration-slate-300;
 } 
 
 .nav-link {
-    font-family: "Satoshi Variable";
+    font-family: "Satoshi";
     font-weight: 525;
     text-decoration: none !important;
     @apply tracking-[0.0325em];
@@ -54,12 +60,12 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Satoshi Variable", sans-serif;
+    font-family: "Satoshi", sans-serif;
     @apply tracking-[0.0325em];
 }
 
 :not(h1, h2, h3, h4, h5, h6, span, pre, code, svg) {
-    font-family: "Karla Variable", sans-serif;
+    font-family: "Work Sans", sans-serif;
     color: #374151;
     @apply leading-7;
 }
@@ -77,11 +83,11 @@ pre {
 }
 
 .prose p {
-    font-size: 1.03rem;
+    font-size: 1.025rem;
 }
 
 .navbar a {
-    font-family: "Satoshi Variable";
+    font-family: "Satoshi";
     @apply tracking-[0.03em];
 }
 
