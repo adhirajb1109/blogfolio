@@ -94,8 +94,3 @@ pre {
 img {
     @apply mx-auto rounded-lg my-6 h-full w-full md:h-64 md:w-[32rem];
 }
-
-body {
-    background-image: url("/images/noise.png");
-    @apply bg-slate-50; 
-}
