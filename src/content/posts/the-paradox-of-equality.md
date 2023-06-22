@@ -37,10 +37,7 @@ Below are the cutoffs for various categories in one of the hardest exams in the 
 ![JEE Advanced 2023 Cutoffs based on different reservation categories.](/images/the-paradox-of-equality/cutoffs.jpg)
 There is a visible gap between a he percentile to get into IIT’s for General students and ST students. As per the above cutoff ranking, a student who scored 91 percentile will get the same branch as a student who scored 38 percentile. If this is meritocracy, then, the nation is doomed. 
 
-One point to keep in mind is that, the direction one's life turns to after giving the examination can not be wholly blamed on the reservation system. If one is a part of the nation, one will have to enjoy its unique benefits and positivies but also bear with its drawbacks. There are various other opportunities which have a possibility to give you a taste of success more than getting into IIT’s or any other prestigious college. 
-
-After all, as our beloved Jeetu Bhaiya from Kota Factory had said, 
-![Yeh Tera Satya Hai - Meme](/images/the-paradox-of-equality/jeetu-bhaiya-satya-meme.jpeg)
+Although, I would like to remind that the trajectory of one's life, either upwards or downwards, after giving the examination can not be wholly blamed on the reservation system. If one is a part of the nation, one will have to enjoy its unique benefits and positives but also bear with its drawbacks. There are various other opportunities which have a possibility to give you a taste of success more than getting into IIT’s or any other prestigious college. 
 
 Although one can’t change the system, one can just have an ambition to do so, till the fateful day finally arrives. 
 
