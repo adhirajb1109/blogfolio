@@ -4,32 +4,30 @@ title: "Adhiraj Bhatia"
 description: "A passionate teen creator who loves crafting unique products to solve real-life problems using the power of code."
 ---
 
-I'm Adhiraj, a passionate creator who loves crafting unique products to solve real-life problems using the power of code.
 
-Currently in high school, I'm excited about this formative period in my life, as it offers numerous opportunities to refine my skills and gain a broader perspective on the world.
+Hey, there!  
+I'm Adhiraj and I love crafting unique products to solve real-life problems using the power of code. 
 
-Technology has become my true love, and I'm always eager to stay up-to-date with the latest bleeding-edge advancements in the tech world.
+As a high school student, I'm thrilled about this transformative phase of my life, where I have the opportunity to hone my skills and broaden my perspective on the world.
 
-Beyond my technical interests, I am a die-hard bookworm, nerd or a geek, whatever you may call it. I enjoy deep-diving into various fields, including philosophy, history, economics, geopolitics, and, of course, technology. Sooner than I realise, each exploration leads me down to a rabbit hole which I can't escape.
+Technology has captivated my inner geek, and I'm driven to unravel the mysteries of this ever-evolving tech realm.
 
-You can find my writings and insights on the above topics [here](/posts).
+Beyond my technical pursuits, I'm an unapologetic bookworm, diving deep into various domains like philosophy, history, economics, geopolitics, and, of course, technology. Each exploration leads me down a rabbit hole I can't resist.
 
----
-
-I'm now on this super cool journey from making toy projects to building real-deal products that can make a difference. You can find some of those products and toy projects [here](https://github.com/adhirajb1109).
-
-One of my latest endeavours involves developing a next-generation social media platform, leveraging the power of the tried-and-tested [RSS Protocol](https://en.wikipedia.org/wiki/RSS).  
-This means that you can be the boss of your content. You decide what you wanna see, without any sneaky algorithms trying to manipulate you.
-
-It's all about giving you the power to curate and enjoy content that really matters to you.
+You can delve into my writings and insights on these subjects right [here](/posts/).
 
 ---
 
-I am eagerly exploring new part-time opportunities that allow me to apply my skills and unleash my potential. I invite you to take a glimpse into my [CV](https://read.cv/adhirajb1109), where you can gain further insight into my skills, and determine potential contributions to make a meaningful impact in your startup.
+I'm embarking on an exciting journey, transitioning from crafting toy projects to building impactful real-world products. You can explore some of these projects and creations of mine right [here](https://github.com/adhirajb1109/).
+
+One of my recent endeavors revolves around developing a one-of-a-kind social media platform that leverages the power of the tried-and-tested [RSS Protocol](https://wikipedia.com/en/rss/). This means putting you in control of your content in your hands, enabling you to curate and enjoy what truly matters to you, without any sneaky algorithms trying to sway you away and converting you into a dopamine-addict.
 
 ---
 
-I am super excited to meet new friends, collaborators or maybe, co-founders!  
-You can usually find me hanging out on [Twitter](https://twitter.com/adhirajb1109) and [Discord](https://discord.com/users/876685465183473675), so feel free to slide into my DMs and chat!  
-Oh, and if you prefer the good old email way, you can reach me at [hey@adhiraj.xyz](hey@adhiraj.xyz).  
-Would love to have a conversation diving-deep into geeky topics with you.
+I'm eagerly seeking new part-time opportunities to apply my skills and unleash my full potential. Feel free to take a peek at my [CV](https://read.cv/adhirajb1109) to gain further insight into my capabilities and how I can make a meaningful impact in your startup.
+
+---
+
+I'm super thrilled to connect with new friends, collaborators, and perhaps even co-founders! You can usually find me hanging out on [Twitter](https://tiwtter.com/adhirajb1109/) and [Discord](https://discord.com/users/876685465183473675/), so don't hesitate to slide into my DMs for a chat.
+
+Oh, and if you prefer the good old-fashioned email route, you can reach me at [hey@adhiraj.xyz](mailto:hey@adhiraj.xyz). I would absolutely love to engage in in-depth conversations on all things geeky with you.
