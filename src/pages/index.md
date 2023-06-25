@@ -5,7 +5,6 @@ description: "A passionate teen creator who loves crafting unique products to so
 ---
 
 
-Hey!  
 I'm Adhiraj and I love crafting unique products to solve real-life problems using the power of code. 
 
 As a high school student, I'm thrilled about this transformative phase of my life, where I have the opportunity to hone my skills and broaden my perspective on the world.
