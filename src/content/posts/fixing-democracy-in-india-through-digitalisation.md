@@ -71,7 +71,7 @@ THe cabinet of ministers should only consitute the leaders who are the experts i
 Singapore’s *founding father* Lee Kuan Yew who transformed Singapore from just another colonial outpost and sea port to a global financial power centre, had a mantra for Indian Politicians on Good Governance,
 > Integrity - absence of corruption, meritocracy - best people for the best job and a fair level playing field for everybody.
 
-Adopting these principles is not a one-time task but an ongoing commitment to good governance. Indianleaders must recognize the long-term benefits of incorporating integrity, meritocracy, and a fair level playing field into their decision-making processes and policies.
+Adopting these principles is not a one-time task but an ongoing commitment to good governance. Indian leaders must recognize the long-term benefits of incorporating integrity, meritocracy, and a fair level playing field into their decision-making processes and policies.
 
 By embracing these ideals, Indian leaders have the potential to shape a nation where citizens can trust their leaders, where talents are recognized and utilized, and where opportunities are accessible to every citizen who has merit to make a change. After all,
 > Change is the only constant.
