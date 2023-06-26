@@ -19,18 +19,6 @@
     font-display: swap;
 }
 
-@font-face {
-    font-family: "Work Sans";
-    src: url("/fonts/WorkSans-Variable.woff2") format("woff2");
-    font-weight: 300, 900;
-    font-style: normal;
-    font-display: swap;
-}
-
-.prose {
-    max-width: 100% !important;
-}
-
 a {
     @apply no-underline text-sky-500 hover:text-sky-600 transition ease-in-out duration-100;
     font-family: "Work Sans";
