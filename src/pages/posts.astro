@@ -13,7 +13,7 @@ const posts = await getCollection('posts', ({ data }) => {
   {
     posts.map((post) => (
       <div class="mt-6 not-prose">
-        <p class="text-gray-500 text-lg">
+        <p class="text-gray-500 text-[1.02rem]">
           {new Date(post.data?.date).toLocaleDateString("en-US", {
             weekday: "long",
             year: "numeric",
