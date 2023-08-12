@@ -40,7 +40,7 @@ This drawback can be solved with *digitalisation*.
 
 Today, the elections in India are conducted physically in the voting booths. The cost to the Election Commission of India for conducting the Lok Sabha elections of 2014 was a staggering 3870 crore rupees!  The first step towards digitalising democracy would be by digitalising elections.
 
-Around 70% of our population will have access to the internet by 2025. So, in this age of digitalisation, it makes a lot of sense for the government to conduct hybrid elections. The govt. can start conducting elections digitally as well as in polling booths. I believe that many of the citizens with access to digital devices and the internet will be quite willing to vote digitally instead of standing in long queues under the scorching sun, just to exercise their political franchisee. Not only will this increase the voter turnout, but, will also help the govt. to drastically decrease the cost of conducting elections as the internet (server) costs would be always lower than setting up physical poll booths. The hard-earned money of taxpayers would be used in a better way for the welfare of citizens and the process of elections would become more streamlined.
+Around 70% of our population will have access to the internet by 2025. So, in this age of digitalisation, it makes a lot of sense for the government to conduct hybrid elections. The govt. can start conducting elections digitally as well as in polling booths. I believe that many of the citizens with access to digital devices and the internet will be quite willing to vote digitally instead of standing in long queues under the scorching sun, just to exercise their political franchisee. Not only will this increase the voter turnout, but, will also help the govt. to drastically decrease the cost of conducting elections as the server costs would be always lower than setting up physical poll booths. The hard-earned money of taxpayers would be used in a better way for the welfare of citizens and the process of elections would become more streamlined.
 
 Sharing a personal experience, I recently went with my father to observe the process of casting your vote for the first time. The polling booth was set up in as govt. school. The students most probably had to miss their three precious days of studies for the installation of polling booths. The current system is not only inconvenient but also ineffecient. 
 
@@ -65,7 +65,7 @@ It is almost impossible to metamorphosize the democratic system of a vast countr
 The solution would be to posess a hybrid system which can be devised in the future to eliminate the drawbacks of representative democracy discussed above by adopting a few elements of direct democracy system on the way.  
 After all, you need the pearls of a variety of colours, for the necklace to look colourful and vibrant. As the world 's largest democracy, we need a revamp in the democratic system of India and put forth our contribution to moving our way towards not only a being the largest, but, also one of the most effecient and flawless democracies in the world. 
 
-THe cabinet of ministers should only consitute the leaders who are the experts in their particular departments. Joining politics should not be the only way towards making a large-scale impact upon the country.
+The cabinet of ministers should only consitute the leaders who are the experts in their particular departments. Joining politics should not be the only way towards making a large-scale impact upon the country.
 
 ### Conclusion
 
