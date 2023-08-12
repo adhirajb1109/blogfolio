@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=DM+Mono&family=IBM+Plex+Sans:wght@400;500;600;700&family=Work+Sans:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&family=IBM+Plex+Sans:wght@700&family=Work+Sans:wght@400;500;700&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -8,7 +8,7 @@
 } 
 
 .nav-link {
-    font-family: "IBM Plex Sans";
+    font-family: "DM Sans";
     text-decoration: none !important;
     @apply tracking-[0.0325em] font-[500] !important;
 } 
@@ -23,7 +23,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "IBM Plex Sans", sans-serif;
+    font-family: "DM Sans", sans-serif;
     @apply tracking-[0.03em] font-semibold !important;
 }
 
@@ -46,7 +46,7 @@ pre {
 }
 
 .navbar a {
-    font-family: "IBM Plex Sans" !important;
+    font-family: "DM Sans" !important;
     @apply tracking-[0.03em] font-[500] !important;
 }
 
