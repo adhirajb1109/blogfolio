@@ -27,6 +27,6 @@ I'm eagerly seeking new part-time opportunities to apply my skills and unleash m
 
 ---
 
-I'm super thrilled to connect with new friends, collaborators, and perhaps even future co-founders! You can usually find me hanging out on [Twitter](https://tiwtter.com/adhirajb1109/) and [Discord](https://discord.com/users/876685465183473675/), so don't hesitate to slide into my DMs for a chat. Just say Hi!
+I'm super thrilled to connect with new friends, collaborators, and perhaps even future co-founders! You can usually find me hanging out on [X](https://x.com/adhirajb1109/) and [Discord](https://discord.com/users/876685465183473675/), so don't hesitate to slide into my DMs for a chat. Just say Hi!
 
-Oh, and if you prefer the good old-fashioned email route, you can reach me at [hey@adhiraj.xyz](mailto:hey@adhiraj.xyz). I would absolutely love to engage in in-depth conversations on all things geeky with you.
+Oh, and if you prefer the good old-fashioned email route, you can reach me at [hey@adhiraj.space](mailto:hey@adhiraj.space). I would absolutely love to engage in in-depth conversations on all things geeky with you.
