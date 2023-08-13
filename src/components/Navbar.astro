@@ -5,14 +5,24 @@ import { Icon } from "astro-icon";
 <nav class="flex mb-2">
   <div class="navbar space-x-4 mr-auto">
     <a href="/">
-      <Icon name="home" class="hidden 2xs:max-xs:inline-block stroke-[1.85] stroke-slate-800" size={21} />
-      <span class="text-slate-800 text-[1.06rem] inline-block 2xs:max-xs:hidden">Home</span>
+      <Icon
+        name="home"
+        class="hidden 2xs:max-xs:inline-block stroke-[1.85] stroke-slate-800"
+        size={21}
+      />
+      <span class="text-slate-800 text-[1.06rem] inline-block 2xs:max-xs:hidden"
+        >Home</span
+      >
     </a>
-    <a
-      href="/posts"
-    >
-    <Icon name="posts" class="hidden 2xs:max-xs:inline-block stroke-[1.85] stroke-slate-800" size={21} />
-    <span class="text-slate-800 text-[1.06rem] inline-block 2xs:max-xs:hidden">Posts</span>
+    <a href="/posts">
+      <Icon
+        name="posts"
+        class="hidden 2xs:max-xs:inline-block stroke-[1.85] stroke-slate-800"
+        size={21}
+      />
+      <span class="text-slate-800 text-[1.06rem] inline-block 2xs:max-xs:hidden"
+        >Posts</span
+      >
     </a>
   </div>
   <div class="hidden 2xs:inline-block ml-auto space-x-4">
@@ -38,11 +48,21 @@ import { Icon } from "astro-icon";
       />
     </a>
     <a href="https://twitter.com/adhirajb1109" target="_blank" rel="noreferrer">
-      <Icon
-        name="x"
-        class="inline-block stroke-2 stroke-slate-800"
-        size={25}
-      />
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        class="inline-block stroke-[1.9] stroke-slate-800"
+        width="21"
+        height="21"
+        viewBox="0 0 24 24"
+        stroke="currentColor"
+        fill="none"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+      >
+        <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+        <path d="M4 4l11.733 16h4.267l-11.733 -16z"></path>
+        <path d="M4 20l6.768 -6.768m2.46 -2.46l6.772 -6.772"></path>
+      </svg>
     </a>
     <a
       href="https://discord.com/users/876685465183473675"
