@@ -47,7 +47,7 @@ pre {
 
 .navbar a {
     font-family: "DM Sans" !important;
-    @apply tracking-[0.03em] font-[500] !important;
+    @apply tracking-[0.03em] font-[500] text-slate-900 !important;
 }
 
 img {

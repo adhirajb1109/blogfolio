@@ -4,7 +4,6 @@ title: "Adhiraj Bhatia"
 description: "A passionate teen creator who loves crafting unique products to solve real-life problems using the power of code."
 ---
 
-
 I'm Adhiraj and I love crafting unique products to solve real-life problems using the power of code. 
 
 As a high school student, I'm super-excited about this transformative phase of my life, as I have the opportunity to hone my skills and broaden my perspective on the world.
